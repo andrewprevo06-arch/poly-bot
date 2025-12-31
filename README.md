@@ -1,2 +1,2 @@
-# poly-bot
-Bot to make market for Gold/Silver/Oil contracts in https://polymarket.com/
+# ProjectP
+This is a bot written in python to trade Gold, Silver, and Oil contracts in Polymarket: https://polymarket.com/
